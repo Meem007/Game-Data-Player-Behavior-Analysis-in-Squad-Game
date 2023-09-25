@@ -1,5 +1,5 @@
 # Player Behavior Analysis in "Squid Game" Netflix Twitter Data
-
+!(squadgame.jpg)
 In this project, we will analyze Twitter data related to the Netflix series "Squid Game." The dataset contains information about Twitter users, their tweets, and engagement metrics. We will explore user behavior, sentiment analysis, and engagement trends in tweets related to the show.
 
 # Dataset: 
