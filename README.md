@@ -4,7 +4,7 @@ In this project, we will analyze Twitter data related to the Netflix series "Squ
 
 # Dataset: 
  The dataset columns as follows:
- user_name: Twitter username of the user who posted the tweet.
+* user_name: Twitter username of the user who posted the tweet.
 user_location: Location of the Twitter user.
 user_description: Description provided by the Twitter user in their profile.
 user_created: Date when the Twitter account was created.
